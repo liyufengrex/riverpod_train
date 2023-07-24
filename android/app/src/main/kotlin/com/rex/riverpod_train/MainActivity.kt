@@ -1,0 +1,6 @@
+package com.rex.riverpod_train
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
